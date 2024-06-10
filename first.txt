@@ -6,3 +6,4 @@ git commit
 追加
 
 Git status
+Git diff
